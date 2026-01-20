@@ -1,0 +1,20 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model ContactSubmission {
+  id            String   @id @default(cuid())
+  name          String
+  phone         String
+  email         String?
+  truckType     String?
+  serviceNeeded String?
+  message       String
+  consent       Boolean
+  createdAt     DateTime @default(now())
+}
