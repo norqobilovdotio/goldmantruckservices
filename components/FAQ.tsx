@@ -18,7 +18,7 @@ const faqItems = [
   },
   {
     question: "What are your hours?",
-    answer: "We're open Monday through Saturday from 9AM to 6PM. Sunday hours are 10AM to 3PM. Roadside service is available during business hours.",
+    answer: "We&apos;re open Monday through Saturday from 9AM to 6PM. Sunday hours are 10AM to 3PM. Roadside service is available during business hours.",
   },
   {
     question: "Do you handle diagnostics?",
@@ -30,7 +30,7 @@ const faqItems = [
   },
   {
     question: "How do I get directions?",
-    answer: "We're located at 11919 Tramway Dr, Cincinnati, OH 45241. Click the address in our contact section for directions, or call us at 513-900-0000.",
+    answer: "We&apos;re located at 11919 Tramway Dr, Cincinnati, OH 45241. Click the address in our contact section for directions, or call us at 513-900-0000.",
   },
   {
     question: "Do you offer same-day service?",
@@ -58,7 +58,7 @@ export function FAQ() {
               Frequently Asked Questions
             </h2>
             <p className="text-lg text-text-secondary">
-              Have a question? We're here to help.
+              Have a question? We&apos;re here to help.
             </p>
           </div>
 

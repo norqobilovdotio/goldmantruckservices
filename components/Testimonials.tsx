@@ -75,7 +75,7 @@ export function Testimonials() {
                   ))}
                 </div>
                 <p className="text-text-secondary mb-4">
-                  "{testimonial.text}"
+                  &quot;{testimonial.text}&quot;
                 </p>
                 <p className="text-sm font-semibold text-text-primary">
                   — {testimonial.name}

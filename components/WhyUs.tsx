@@ -28,7 +28,7 @@ export function WhyUs() {
               Why Choose Goldman Truck Services
             </h2>
             <p className="text-lg text-text-secondary max-w-2xl mx-auto">
-              We understand that downtime costs money. That's why we focus on getting you back on the road quickly and safely.
+              We understand that downtime costs money. That&apos;s why we focus on getting you back on the road quickly and safely.
             </p>
           </div>
 
