@@ -6,7 +6,11 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Goldman Truck Services | Fast, Reliable Truck Repair | Cincinnati, OH",
-  description: "Professional truck repair services in Cincinnati, OH. Fast turnaround, diesel diagnostics, secure parking. Call 513-900-0000.",
+  description: "Professional truck repair services in Cincinnati, OH. Fast turnaround, diesel diagnostics, secure parking. Call 917-375-1002.",
+  icons: {
+    icon: "/GTSFront.png",
+    apple: "/GTSFront.png",
+  },
 }
 
 export default function RootLayout({

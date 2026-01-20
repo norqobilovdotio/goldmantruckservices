@@ -86,7 +86,7 @@ npm start
 
 ## Contact Information
 
-- **Phone**: 513-900-0000
+- **Phone**: 917-375-1002
 - **Address**: 11919 Tramway Dr, Cincinnati, OH 45241
 - **Email**: service@goldmantruckservices.com
 

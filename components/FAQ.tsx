@@ -30,7 +30,7 @@ const faqItems = [
   },
   {
     question: "How do I get directions?",
-    answer: "We&apos;re located at 11919 Tramway Dr, Cincinnati, OH 45241. Click the address in our contact section for directions, or call us at 513-900-0000.",
+    answer: "We&apos;re located at 11919 Tramway Dr, Cincinnati, OH 45241. Click the address in our contact section for directions, or call us at 917-375-1002.",
   },
   {
     question: "Do you offer same-day service?",

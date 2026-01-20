@@ -21,16 +21,16 @@ const infoItems = [
   {
     icon: Phone,
     label: "Phone",
-    value: "513-900-0000",
+    value: "917-375-1002",
     subValue: "Call anytime",
-    href: "tel:5139000000",
+    href: "tel:9173751002",
   },
   {
     icon: AlertCircle,
     label: "Roadside",
     value: "Roadside Service",
     subValue: "Available during business hours",
-    href: "tel:5139000000",
+    href: "tel:9173751002",
   },
 ]
 

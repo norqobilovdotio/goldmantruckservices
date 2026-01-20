@@ -64,7 +64,7 @@ export function Parking() {
               size="lg"
               asChild
             >
-              <a href="tel:5139000000" className="flex items-center gap-2">
+              <a href="tel:9173751002" className="flex items-center gap-2">
                 <Phone className="h-5 w-5" />
                 Reserve by Phone
               </a>

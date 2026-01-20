@@ -107,7 +107,7 @@ export function MapContact({ prefillService }: MapContactProps) {
 
               <div className="space-y-6 mb-8">
                 <a
-                  href="tel:5139000000"
+                  href="tel:9173751002"
                   className="flex items-start gap-4 glass-card hover:cursor-pointer group"
                 >
                   <div className="p-3 rounded-lg bg-accent/10 text-accent flex-shrink-0 group-hover:bg-accent/20 transition-colors">
@@ -115,7 +115,7 @@ export function MapContact({ prefillService }: MapContactProps) {
                   </div>
                   <div>
                     <p className="text-sm font-medium text-text-muted mb-1">Phone</p>
-                    <p className="text-lg font-semibold text-text-primary">513-900-0000</p>
+                    <p className="text-lg font-semibold text-text-primary">917-375-1002</p>
                   </div>
                 </a>
 

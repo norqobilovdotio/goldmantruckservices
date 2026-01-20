@@ -36,11 +36,11 @@ export function Footer() {
               </p>
               <div className="space-y-2">
                 <a
-                  href="tel:5139000000"
+                  href="tel:9173751002"
                   className="flex items-center gap-2 text-text-secondary hover:text-accent transition-colors"
                 >
                   <Phone className="h-4 w-4" />
-                  <span>513-900-0000</span>
+                  <span>917-375-1002</span>
                 </a>
                 <a
                   href="https://www.google.com/maps/search/?api=1&query=11919+Tramway+Dr,+Cincinnati,+OH+45241"

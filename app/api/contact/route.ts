@@ -109,7 +109,7 @@ export async function POST(request: NextRequest) {
                   <div style="font-size: 14px; color: #0F172A; white-space: pre-wrap;">${submission.message}</div>
                 </div>
                 <div style="margin-top: 18px; display: flex; flex-wrap: wrap;">
-                  <a href="tel:5139000000" style="display: inline-block; padding: 10px 16px; background: #2563EB; color: #FFFFFF; text-decoration: none; border-radius: 8px; font-size: 14px; font-weight: 600;">Call Customer</a>
+                  <a href="tel:9173751002" style="display: inline-block; padding: 10px 16px; background: #2563EB; color: #FFFFFF; text-decoration: none; border-radius: 8px; font-size: 14px; font-weight: 600;">Call Customer</a>
                   <a href="mailto:${submission.email || "service@goldmantruckrepair.com"}?subject=Re:%20${encodeURIComponent(
                     subject
                   )}" style="display: inline-block; margin-left: 10px; padding: 10px 16px; background: #0F172A; color: #FFFFFF; text-decoration: none; border-radius: 8px; font-size: 14px; font-weight: 600;">Email Customer</a>

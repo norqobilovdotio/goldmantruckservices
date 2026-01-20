@@ -80,7 +80,7 @@ export function Header() {
                 size="sm"
                 asChild
               >
-                <a href="tel:5139000000" className="flex items-center gap-2">
+                <a href="tel:9173751002" className="flex items-center gap-2">
                   <Phone className="h-4 w-4" />
                   Call Now
                 </a>
@@ -130,7 +130,7 @@ export function Header() {
                   asChild
                   className="w-full"
                 >
-                  <a href="tel:5139000000" className="flex items-center justify-center gap-2">
+                  <a href="tel:9173751002" className="flex items-center justify-center gap-2">
                     <Phone className="h-4 w-4" />
                     Call Now
                   </a>

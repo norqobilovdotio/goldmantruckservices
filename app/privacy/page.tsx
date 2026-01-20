@@ -40,7 +40,7 @@ export default function PrivacyPage() {
                 If you have questions about this Privacy Policy, please contact us at:
               </p>
               <p>
-                Phone: <a href="tel:5139000000" className="text-accent hover:underline">513-900-0000</a><br />
+                Phone: <a href="tel:9173751002" className="text-accent hover:underline">917-375-1002</a><br />
                 Email: <a href="mailto:service@goldmantruckservices.com" className="text-accent hover:underline">service@goldmantruckservices.com</a>
               </p>
             </div>
